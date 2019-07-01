@@ -17,6 +17,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "77885d05131a1f7c5f7d3340ab89bf41",
-    "url": "./build/static/media/gopher.77885d05.jpeg"
+    "url": "/static/media/gopher.77885d05.jpeg"
   }
 ]);

@@ -9,6 +9,6 @@
     "index.html": "/index.html",
     "precache-manifest.b4c1f1f91431e91a1ffa674038db7a2d.js": "/precache-manifest.b4c1f1f91431e91a1ffa674038db7a2d.js",
     "service-worker.js": "/service-worker.js",
-    "static/media/gopher.jpeg": "./build/static/media/gopher.77885d05.jpeg"
+    "static/media/gopher.jpeg": "/static/media/gopher.77885d05.jpeg"
   }
 }
