@@ -27,7 +27,11 @@ Exemplo: `[São Paulo] Go Developer na [NOME DA EMPRESA]`
 2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/gommunity/vagas/blob/master/.github/issue_template.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
 ### Como receber atualizações de novas vagas:
-Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
+Você pode receber atualizações das vagas no seu email ou via notificações do Github, basta clicar em **Watch** e, em seguida, clicar em **Watching**, próximo a sua foto de perfil. Você pode modificar o modo de receber notificações em **[notifications](https://github.com/settings/notifications)** no próprio Github.
+
+<p align="center">
+<img src="https://i.postimg.cc/gkSjc2nG/Screen_Recording_2018-10-03_at_08.23_PM.gif">
+</p>
 
 ### Outros repositórios de vagas
 
