@@ -31,7 +31,7 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 
 ### Outros repositórios de vagas
 
-Esse repositório é específico para a postagem de vagas relacionadas a **ruby**,
+Esse repositório é específico para a postagem de vagas relacionadas a **go**,
 mas existem vagas para muitas outras áreas nesse mercado, esse repo é um fork
 do [frontendbr/vagas](https://github.com/frontendbr/vagas).
 
