@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/gommunity/vagas/blob/master/gommunity-logo.png" width="200" alt="Gommunity">
-</p>
+</p> 
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas para Gophers.</p>
 
